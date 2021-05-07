@@ -154,6 +154,7 @@ export default function Upload(props) {
             fullWidth
             variant="contained"
             color="primary"
+            disabled={isUploading}
             className={classes.submit}
             onClick={e => handleSubmit(e)}
           >
