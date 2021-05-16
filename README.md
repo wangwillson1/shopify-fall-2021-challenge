@@ -1,5 +1,5 @@
-# Shopify Fall 2021 Challenge
-Welcome to my image repository for the Shopify Fall 2021 challenge!
+# Image Repository
+Welcome to my image repository
 
 ## Setting up the Project
 The project contains two folders, the app and client. The app consists of an API made with Express/Node and the client was made with React. Navigate to the README in each of the folders to set up and run those projects.
